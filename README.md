@@ -140,7 +140,7 @@ IE3132{gh0st_1n_th3_w0rkst4t10n}
 ## Hints
 
 <details>
-<summary><b>Hint 1 (Free)</b></summary>
+<summary><b>Hint 1</b></summary>
 The evidence was deleted, but disk forensics can recover it.
 Use `fls -r -d disk_image_IE3132.dd` to list deleted files.
 Look for a ZIP file and note its inode number.
