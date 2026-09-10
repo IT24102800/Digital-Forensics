@@ -14,7 +14,7 @@ Participants receive a single 10 MB FAT16 disk image seized from a missing syste
 
 ### Scenario
 
-Nexora Dynamics, a multinational defense contractor, has been rocked by allegations of illegal arms deals. A senior systems administrator disappeared after copying classified documents to an external drive. The company's internal security team seized his workstation but found nothing — the files had been deleted. A disk image named `disk_image_IE3132.dd` was made before the machine was wiped.
+Nexora Dynamics, a multinational defense contractor, has been rocked by allegations of illegal arms deals. A senior systems administrator disappeared after copying classified documents to an external drive. The company's internal security team seized his workstation but found nothing - the files had been deleted. A disk image named `disk_image_IE3132.dd` was made before the machine was wiped.
 
 **Your mission:** As a freelance forensic investigator hired by Nexora's legal team, recover the deleted evidence. Your only lead is the disk image taken from the workstation. The evidence was deleted, but the ghost left traces. Recover the deleted files and extract the final flag.
 
